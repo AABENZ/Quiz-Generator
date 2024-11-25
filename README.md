@@ -2,6 +2,7 @@
 
 This is a **Streamlit-based web application** that allows users to generate, answer, and evaluate quizzes on any topic using AI-powered question generation. The app integrates with **Supabase** for storing quiz data and utilizes **Educhain** to generate questions with a custom AI model hosted on Cerebras.
 
+![App Screenshot](https://i.ibb.co/m07RtsG/2024-11-25-01-48.png)
 ---
 
 ## 📝 Features
